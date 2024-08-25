@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1>Hi, I'm Juned! <br/><a href="https://www.linkedin.com/in/juned-connect/">Linkedin</a>, <a href="https://www.credly.com/users/juned-ahmed.cbc69ec9">Credly</a></h1>
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>SOC Automation)</b> [Click Here](https://github.com/JunedConnect/SOC_Automation/)
+- <b>SCCM/MECM Server Management</b> [Click Here](https://github.com/JunedConnect/SCCM-MECM_Server_Management)
+- <b>Azure Sentinel SIEM Honeypot Geolocation Dashboard</b> [Click Here](https://github.com/JunedConnect/SCCM-MECM_Server_Management)
+- <b>Vulnerability Management</b> [Click Here](https://github.com/JunedConnect/Vulnerability_Scanning)
 
 <!--
 **JunedConnect/JunedConnect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
