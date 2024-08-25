@@ -3,8 +3,7 @@
 
 <br/>
 <h2>🧐 A bit About Me</h2>
-I do my part in spreading awareness for online security by posting <b>(feel free to check out the Linkedin below)</b><br/>
-and enganging with cyber-experts (and non-cyber experts) by attending industry events.<br/><br/>
+I do my part in spreading awareness for online security by posting <b>(feel free to check out the Linkedin below)</b> and enganging with cyber-experts (and non-cyber experts) by attending industry events.<br/><br/>
 
 Recently got into OSINT 🕵️, so currently in that phase where I look forward to doing a challange every day after work.<br/><br/>
 
