@@ -1,11 +1,30 @@
-<h1>Hi, I'm Juned! <br/><a href="https://www.linkedin.com/in/juned-connect/">Linkedin</a>, <a href="https://www.credly.com/users/juned-ahmed.cbc69ec9">Credly</a></h1>
+<h1>Hi, I'm Juned, A cyber-awareness advocate<br/></h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>SOC Automation)</b> [Click Here](https://github.com/JunedConnect/SOC_Automation/)
+<br/>
+<h2>🧐 A bit About Me</h2>
+I do my part in spreading awareness for online security by posting <b>(feel free to check out the Linkedin below)</b><br/>
+and enganging with cyber-experts (and non-cyber experts) by attending industry events.<br/><br/>
+
+Recently got into OSINT 🕵️, so currently in that phase where I look forward to doing a challange every day after work.<br/><br/>
+
+I spend my free time trying out different tools & learning about technologies <b>(have a look below 👇).<br/>
+
+
+<br/>
+<h2>👨‍💻 Cyber Security Projects</h2>
+
+- <b>SOC Automation</b> [Click Here](https://github.com/JunedConnect/SOC_Automation/)
 - <b>SCCM/MECM Server Management</b> [Click Here](https://github.com/JunedConnect/SCCM-MECM_Server_Management)
 - <b>Azure Sentinel SIEM Honeypot Geolocation Dashboard</b> [Click Here](https://github.com/JunedConnect/SCCM-MECM_Server_Management)
 - <b>Vulnerability Management</b> [Click Here](https://github.com/JunedConnect/Vulnerability_Scanning)
+
+<br/>
+<h2>🔗 Some Links</h2>
+<a href="https://www.linkedin.com/in/juned-connect/">Linkedin</a> - Feel free to connect and send me a message on Linkedin<br/>
+
+<a href="https://www.credly.com/users/juned-ahmed.cbc69ec9">Credly</a> - Certifications
+
 
 <!--
 **JunedConnect/JunedConnect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
