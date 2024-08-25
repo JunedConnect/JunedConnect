@@ -1,4 +1,4 @@
-<h1>Hi, I'm Juned, A cyber-awareness advocate<br/></h1>
+<h1>Hi, I'm Juned, A Cyber-Awareness Advocate<br/></h1>
 
 
 <br/>
