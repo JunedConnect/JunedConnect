@@ -21,7 +21,7 @@ I spend my free time trying out different tools & learning about technologies <b
 
 <br/>
 <h2>🔗 Some Links</h2>
-<a href="https://www.linkedin.com/in/juned-connect/">Linkedin</a> - Feel free to connect and send me a message on Linkedin<br/>
+<a href="https://www.linkedin.com/in/juned-connect/">Linkedin</a> - Feel free to connect on Linkedin<br/>
 
 <a href="https://www.credly.com/users/juned-ahmed.cbc69ec9">Credly</a> - Certifications
 
