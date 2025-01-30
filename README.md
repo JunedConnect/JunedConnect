@@ -10,7 +10,7 @@ I spend my free time trying out different tools & learning about technologies, D
 
 <br/>
 
-<h2>👨‍💻 DevOps Journey</h2> <a href="https://github.com/JunedConnect/Devops-Journey">Click Here</a>
+<h2>👨‍💻 DevOps Journey</h2> <a href="https://github.com/JunedConnect/Devops-Journey"><h2>Click Here</h2></a>
 
 <h2>👨‍💻 Cyber Security Projects</h2>
 
