@@ -1,5 +1,5 @@
 <h1>Hi, I'm Juned<br/></h1>
-just an IT Guy
+... just an IT Guy
 
 <br/>
 <h2>🧐 A bit About Me</h2>
