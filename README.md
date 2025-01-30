@@ -13,6 +13,8 @@ I spend my free time trying out different tools & learning about technologies, D
 <h2>👨‍💻 DevOps Journey</h2> <a href="https://github.com/JunedConnect/Devops-Journey">Click Here to see the Journey</a>
 
 <br/>
+<br/>
+
 <h2>👨‍💻 Cyber Security Projects</h2>
 
 - <b>SOC Automation</b> [Click Here](https://github.com/JunedConnect/SOC_Automation)
