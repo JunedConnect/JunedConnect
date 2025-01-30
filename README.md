@@ -11,7 +11,7 @@ I spend my free time trying out different tools & learning about technologies, D
 <br/>
 
 <h2>👨‍💻 DevOps Journey</h2>
-I will be covering everything here, from the basics of scripting using Linux, all the way to automating deployments in the cloud
+I will be covering everything here, from the basics of scripting using Linux, all the way to automating deployments in the cloud <br/>
 <a href="https://github.com/JunedConnect/Devops-Journey">Click Here to see the Journey</a>
 <br/>
 <br/>
