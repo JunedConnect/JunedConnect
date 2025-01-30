@@ -1,16 +1,17 @@
-<h1>Hi, I'm Juned, A Cyber-Awareness Advocate<br/></h1>
+<h1>Hi, I'm Juned, just an IT Guy<br/></h1>
 
 
 <br/>
 <h2>🧐 A bit About Me</h2>
-I do my part in spreading awareness for online security by posting <b>(feel free to check out the Linkedin below)</b> and enganging with cyber-experts (and non-cyber experts) by attending industry events.<br/><br/>
+I'm quite hands-on with tech tools and post abit about my journey <b>(feel free to check out the Linkedin below)</b> and enganging with the community.<br/><br/>
 
-Recently got into OSINT 🕵️, so currently in that phase where I look forward to doing a challange every day after work.<br/><br/>
-
-I spend my free time trying out different tools & learning about technologies <b>(have a look below 👇).<br/>
+I spend my free time trying out different tools & learning about technologies, DevOps related and even Cyber Security <b>(have a look below 👇).<br/>
 
 
 <br/>
+
+<h2>👨‍💻 DevOps Journey</h2> [Click Here](https://github.com/JunedConnect/Devops-Journey/)
+
 <h2>👨‍💻 Cyber Security Projects</h2>
 
 - <b>SOC Automation</b> [Click Here](https://github.com/JunedConnect/SOC_Automation/)
