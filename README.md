@@ -10,11 +10,12 @@ I spend my free time trying out different tools & learning about technologies, D
 
 <br/>
 
-<h2>👨‍💻 DevOps Journey</h2> [Click Here](https://github.com/JunedConnect/Devops-Journey/)
+<h2>👨‍💻 DevOps Journey</h2>
+[Click Here](https://github.com/JunedConnect/Devops-Journey)
 
 <h2>👨‍💻 Cyber Security Projects</h2>
 
-- <b>SOC Automation</b> [Click Here](https://github.com/JunedConnect/SOC_Automation/)
+- <b>SOC Automation</b> [Click Here](https://github.com/JunedConnect/SOC_Automation)
 - <b>SCCM/MECM Server Management</b> [Click Here](https://github.com/JunedConnect/SCCM-MECM_Server_Management)
 - <b>Azure Sentinel SIEM Honeypot Geolocation Dashboard</b> [Click Here](https://github.com/JunedConnect/SCCM-MECM_Server_Management)
 - <b>Vulnerability Management</b> [Click Here](https://github.com/JunedConnect/Vulnerability_Scanning)
