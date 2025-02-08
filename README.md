@@ -37,6 +37,8 @@ I will be covering everything here, from the basics of scripting using Linux, al
 
 [![Azure Sentinel SIEM Honeypot Geolocation Dashboard](https://img.shields.io/badge/Azure_Sentinel_SIEM_Honeypot_Geolocation_Dashboard-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/SCCM-MECM_Server_Management)
 
+[![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Vulnerability_Scanning)
+
 <br>
 <!-- This is the repo that I had used for the icons above -->
 
