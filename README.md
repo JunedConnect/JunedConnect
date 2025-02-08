@@ -11,8 +11,9 @@ I spend my free time trying out different tools & learning about technologies, D
 <br/>
 
 <h2> Skills and Technologies </h2>
-[![My Skills](https://skillicons.dev/icons?i=js,bash,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,bash,aws,wasm)](https://skillicons.dev)
 
+<br/>
 <br/>
 
 <h2>👨‍💻 DevOps Journey</h2>
