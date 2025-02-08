@@ -34,7 +34,8 @@ I will be covering everything here, from the basics of scripting using Linux, al
 - <b>Vulnerability Management</b> [Click Here](https://github.com/JunedConnect/Vulnerability_Scanning)
 
 [![SCCM/MECM Server Management](https://img.shields.io/badge/SCCM%2FMECM_Server_Management-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/SCCM-MECM_Server_Management)
-[![Azure Sentinel SIEM Honeypot Geolocation Dashboard](https://img.shields.io/badge/Azure_Sentinel_SIEM Honeypot_Geolocation_Dashboard-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/SCCM-MECM_Server_Management)
+
+[![Azure Sentinel SIEM Honeypot Geolocation Dashboard](https://img.shields.io/badge/Azure_Sentinel_SIEM_Honeypot_Geolocation_Dashboard-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/SCCM-MECM_Server_Management)
 
 <br>
 <!-- This is the repo that I had used for the icons above -->
