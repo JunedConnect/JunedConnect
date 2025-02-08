@@ -28,10 +28,10 @@ I will be covering everything here, from the basics of scripting using Linux, al
 
 <h2>👨‍💻 Cyber Security Projects</h2>
 
-[![SOC Automation](https://img.shields.io/badge/SOC_Automation-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/SOC_Automation)
-[![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Vulnerability_Scanning)
-[![SCCM/MECM Server Management](https://img.shields.io/badge/SCCM%2FMECM_Server_Management-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/SCCM-MECM_Server_Management)
-[![Azure Sentinel SIEM Honeypot Geolocation Dashboard](https://img.shields.io/badge/Azure_Sentinel_SIEM_Honeypot_Geolocation_Dashboard-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/SCCM-MECM_Server_Management)
+[![SOC Automation](https://img.shields.io/badge/SOC_Automation-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/SOC_Automation) \
+[![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Vulnerability_Scanning) \
+[![SCCM/MECM Server Management](https://img.shields.io/badge/SCCM%2FMECM_Server_Management-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/SCCM-MECM_Server_Management) \
+[![Azure Sentinel SIEM Honeypot Geolocation Dashboard](https://img.shields.io/badge/Azure_Sentinel_SIEM_Honeypot_Geolocation_Dashboard-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Azure_Sentinel_SIEM_Honeypot_Geolocation_Dashboard)
 
 
 <br>
