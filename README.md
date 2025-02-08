@@ -1,3 +1,5 @@
+<div align="center">
+  
 <h1>Hi, I'm Juned 👋 <br/></h1>
 <br/>
 <h2>🧐 A bit About Me</h2>
@@ -38,7 +40,7 @@ I will be covering everything here, from the basics of scripting using Linux, al
 <a href="https://www.credly.com/users/juned-ahmed.cbc69ec9"><img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/credly-48.png" alt="Credly Badge" width="60"/></a>
 </div>
 
-
+</div>
 <!--
 **JunedConnect/JunedConnect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
