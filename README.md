@@ -1,7 +1,10 @@
 <div align="center">
   
-<h1>Hi, I'm Juned 👋 <br/></h1>
+<h1>Hi there 👋 <br/></h1>
 <br/>
+
+</div>
+
 <h2>🧐 A bit About Me</h2>
 I'm quite hands-on with tech tools and post abit about my journey <b>(feel free to check out the Linkedin below)</b> and enganging with the community.<br/><br/>
 
@@ -35,10 +38,11 @@ I will be covering everything here, from the basics of scripting using Linux, al
 <br/>
 <h2>🔗 Some Links</h2>
 
+<div align="center">
 <a href="https://www.linkedin.com/in/juned-connect/"><img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/linkedin-48.png" alt="LinkedIn Badge" width="60"/></a>
 <a href="https://www.credly.com/users/juned-ahmed.cbc69ec9"><img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/credly-48.png" alt="Credly Badge" width="60"/></a>
-
 </div>
+
 <!--
 **JunedConnect/JunedConnect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
