@@ -54,5 +54,5 @@ I will be covering everything here, from the basics of scripting using Linux, al
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=junedconnect)
 
-![Visitor Count](https://profile-counter.glitch.me/{junedconnect}/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
 
