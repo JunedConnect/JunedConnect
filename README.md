@@ -8,6 +8,7 @@ I'm quite hands-on with tech tools and post abit about my journey here and on Li
 <br>
 I spend my free time trying out different tools & learning about technologies, DevOps related and even Cyber Security.
 </div>
+<br>
 
 <h2>🧰 Skills and Technologies </h2>
 
