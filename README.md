@@ -15,7 +15,7 @@ I spend my free time trying out different tools & learning about technologies, D
 
 <br>
 
-<h2> Skills and Technologies </h2>
+<h2>🧰 Skills and Technologies </h2>
 
 <div align="center">
 
