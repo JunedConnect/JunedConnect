@@ -1,7 +1,6 @@
 <div align="center">
   
 <h1>Hi there 👋 <br/></h1>
-<br/>
 
 </div>
 
