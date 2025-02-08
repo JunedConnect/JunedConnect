@@ -3,7 +3,9 @@
 <h1>Hi there 👋</h1>
 </div>
 <h2>🧐 A bit About Me</h2>
+
 ## 🧐 A bit About Me
+
 <div align="center">
 I'm quite hands-on with tech tools and post abit about my journey here and on Linkedin and enganging with the community.
 <br>
