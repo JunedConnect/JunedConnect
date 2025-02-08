@@ -3,14 +3,12 @@
 <h1>Hi there 👋</h1>
 </div>
 <h2>🧐 A bit About Me</h2>
-
-## 🧐 A bit About Me
-
-<div align="center">
 I'm quite hands-on with tech tools and post abit about my journey here and on Linkedin and enganging with the community.
+
 <br>
+
 I spend my free time trying out different tools & learning about technologies, DevOps related and even Cyber Security.
-</div>
+
 <br>
 
 <h2>🧰 Skills and Technologies </h2>
@@ -24,8 +22,9 @@ I spend my free time trying out different tools & learning about technologies, D
 </div>
 
 <h2>👨‍💻 DevOps Journey</h2>
-<div align="center">
 From the basics of BASH scripting, all the way to automating deployments in the cloud with tools like Terraform
+
+<div align="center">
   
 [![Click Here to Join the Journey](https://img.shields.io/badge/Click%20Here%20to%20Join%20the%20Journey-b603fc?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Devops-Journey)
 
