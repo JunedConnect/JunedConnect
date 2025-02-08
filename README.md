@@ -35,7 +35,6 @@ I will be covering everything here, from the basics of scripting using Linux, al
 
 <a href="https://www.linkedin.com/in/juned-connect/">
   <img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/linkedin-48.png" alt="LinkedIn Badge" width="60"/>
-<br>
 <a href="https://www.credly.com/users/juned-ahmed.cbc69ec9">
   <img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/credly-48.png" alt="Credly Badge" width="60"/>
 
