@@ -23,6 +23,8 @@ I spend my free time trying out different tools & learning about technologies, D
 <h2>👨‍💻 DevOps Journey</h2>
 I will be covering everything here, from the basics of scripting using Linux, all the way to automating deployments in the cloud <br/>
 <a href="https://github.com/JunedConnect/Devops-Journey">Click Here to see the Journey</a>
+[![Click Here to see the Journey](https://img.shields.io/badge/Click_Here_to_Join_the_Journey-b603fc?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Devops-Journey)
+
 
 <br>
 
