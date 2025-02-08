@@ -1,4 +1,4 @@
-<!-- 
+
 <div align="center">
   
 <h1>Hi there 👋</h1>
@@ -9,19 +9,6 @@
 <p>I'm quite hands-on with tech tools and post abit about my journey here and on Linkedin and enganging with the community.</p>
 <p>In my free time, I experiment with different tools, focusing on DevOps and Cyber Security. I’m constantly learning and evolving.</p>
 </div>
-
- -->
-
-<div align="center">
-  <h1 style="margin-bottom: 0; padding-bottom: 0;">Hi there 👋</h1>
-</div>
-
-<h2 style="margin-top: 0; padding-top: 0;">🧐 A bit About Me</h2>
-<div style="margin-top: 0; padding-top: 0;">
-  <p style="margin-top: 0; padding-top: 0;">I'm quite hands-on with tech tools and post a bit about my journey here and on LinkedIn, engaging with the community.</p>
-  <p style="margin-top: 0; padding-top: 0;">In my free time, I experiment with different tools, focusing on DevOps and Cyber Security. I’m constantly learning and evolving.</p>
-</div>
-
 
 <br>
 
