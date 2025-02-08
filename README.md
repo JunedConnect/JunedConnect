@@ -37,7 +37,7 @@ From the basics of BASH scripting, all the way to automating deployments in the 
 
 
 <br>
-<!-- This is the repo that I had used for the icons above -->
+<!-- This is the repo that I had used for the icons above : https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 <h2>🔗 Connect With Me</h2>
 <div align="center">
