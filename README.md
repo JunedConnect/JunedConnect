@@ -22,6 +22,7 @@ I spend my free time trying out different tools & learning about technologies, D
 
 <h2>👨‍💻 DevOps Journey</h2>
 I will be covering everything here, from the basics of BASH scripting, all the way to automating deployments in the cloud with tools like Terraform \
+
 [![Click Here to Join the Journey](https://img.shields.io/badge/Click%20Here%20to%20Join%20the%20Journey-b603fc?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Devops-Journey)
 
 
