@@ -6,7 +6,7 @@
 </div>
 
 <h2>🧐 A bit About Me</h2>
-I'm quite hands-on with tech tools and post abit about my journey <b>(feel free to check out the Linkedin below)</b> and enganging with the community.<br/><br/>
+I'm quite hands-on with tech tools and post abit about my journey here and on Linkedin and enganging with the community.<br/><br/>
 
 I spend my free time trying out different tools & learning about technologies, DevOps related and even Cyber Security <b>(have a look below 👇)</b>.<br/>
 
@@ -43,5 +43,6 @@ I will be covering everything here, from the basics of scripting using Linux, al
 <h2>🔗 Connect With Me</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/juned-connect/"><img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/linkedin-48.png" alt="LinkedIn Badge" width="60"/></a>
+                            
 <a href="https://www.credly.com/users/juned-ahmed.cbc69ec9"><img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/credly-48.png" alt="Credly Badge" width="60"/></a>
 </div>
