@@ -4,9 +4,12 @@
 </div>
 
 <h2>🧐 A bit About Me</h2>
+<div style="margin-top: 0; padding-top: 0;">
 <p>I'm quite hands-on with tech tools and post abit about my journey here and on Linkedin and enganging with the community.</p>
 <p>In my free time, I experiment with different tools, focusing on DevOps and Cyber Security. I’m constantly learning and evolving.</p>
+</div>
 
+<br>
 
 <h2>🧰 Skills and Technologies </h2>
 
