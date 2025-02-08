@@ -53,3 +53,6 @@ I will be covering everything here, from the basics of scripting using Linux, al
 <h2>📈 Some Stats</h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=junedconnect)
+
+![Visitor Count](https://profile-counter.glitch.me/{junedconnect}/count.svg)
+
