@@ -10,7 +10,9 @@ I spend my free time trying out different tools & learning about technologies, D
 
 <h2> Skills and Technologies </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode,aws,terraform,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes)](https://skillicons.dev)
 
 <br/>
 
