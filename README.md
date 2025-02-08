@@ -34,6 +34,10 @@ I will be covering everything here, from the basics of scripting using Linux, al
 <h2>🔗 Some Links</h2>
 <a href="https://www.linkedin.com/in/juned-connect/">Linkedin</a> - Feel free to connect on Linkedin<br/>
 
+<a href="https://www.linkedin.com/in/juned-connect/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a> - Feel free to connect on LinkedIn!
+
 <a href="https://www.credly.com/users/juned-ahmed.cbc69ec9">Credly</a> - Certifications
 
 
