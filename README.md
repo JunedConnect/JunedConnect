@@ -12,7 +12,7 @@ I spend my free time trying out different tools & learning about technologies, D
 
 <h2> Skills and Technologies </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 <br/>
 <br/>
