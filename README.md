@@ -3,11 +3,8 @@
 <h1>Hi there 👋</h1>
 </div>
 <h2>🧐 A bit About Me</h2>
-I'm quite hands-on with tech tools and post abit about my journey here and on Linkedin and enganging with the community.
-
-<br>
-
-I spend my free time trying out different tools & learning about technologies, DevOps related and even Cyber Security.
+<p>I'm quite hands-on with tech tools and post abit about my journey here and on Linkedin and enganging with the community.</p>
+<p>I spend my free time trying out different tools & learning about technologies, DevOps related and even Cyber Security.</p>
 
 <br>
 
