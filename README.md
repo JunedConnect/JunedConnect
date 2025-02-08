@@ -19,7 +19,6 @@ I spend my free time trying out different tools & learning about technologies, D
 [![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes)](https://skillicons.dev)
 
 </div>
-<br>
 
 <h2>👨‍💻 DevOps Journey</h2>
 <div align="center">
