@@ -13,7 +13,7 @@ I'm quite hands-on with tech tools and post abit about my journey here and on Li
 I spend my free time trying out different tools & learning about technologies, DevOps related and even Cyber Security <b>(have a look below 👇)</b>.<br/>
 
 
-<br/>
+<br>
 
 <h2> Skills and Technologies </h2>
 
@@ -24,13 +24,14 @@ I spend my free time trying out different tools & learning about technologies, D
 [![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes)](https://skillicons.dev)
 
 </div>
-<br/>
+<br>
 
 <h2>👨‍💻 DevOps Journey</h2>
 I will be covering everything here, from the basics of scripting using Linux, all the way to automating deployments in the cloud <br/>
 <a href="https://github.com/JunedConnect/Devops-Journey">Click Here to see the Journey</a>
-<br/>
-<br/>
+
+<br>
+<br>
 
 <h2>👨‍💻 Cyber Security Projects</h2>
 
@@ -39,7 +40,7 @@ I will be covering everything here, from the basics of scripting using Linux, al
 - <b>Azure Sentinel SIEM Honeypot Geolocation Dashboard</b> [Click Here](https://github.com/JunedConnect/SCCM-MECM_Server_Management)
 - <b>Vulnerability Management</b> [Click Here](https://github.com/JunedConnect/Vulnerability_Scanning)
 
-<br/>
+<br>
 
 
 <h2>🔗 Connect With Me</h2>
