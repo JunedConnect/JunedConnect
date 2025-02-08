@@ -37,7 +37,7 @@ I will be covering everything here, from the basics of scripting using Linux, al
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <br>
 <a href="https://www.credly.com/users/juned-ahmed.cbc69ec9">
-  <img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/icons8-credly-48.png" alt="Credly Badge" width="30"/>
+  <img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/icons8-credly-48.png" alt="Credly Badge" width="50"/>
 
 
 <!--
