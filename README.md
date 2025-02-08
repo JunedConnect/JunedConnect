@@ -39,8 +39,6 @@ From the basics of BASH scripting, all the way to automating deployments in the 
 [![SCCM/MECM Server Management](https://img.shields.io/badge/SCCM%2FMECM_Server_Management-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/SCCM-MECM_Server_Management) \
 [![Azure Sentinel SIEM Honeypot Geolocation Dashboard](https://img.shields.io/badge/Azure_Sentinel_SIEM_Honeypot_Geolocation_Dashboard-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Azure_Sentinel_SIEM_Honeypot_Geolocation_Dashboard)
 
-
-<br>
 <!-- This is the repo that I had used for the icons above : https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 <h2>🔗 Connect With Me</h2>
