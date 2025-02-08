@@ -49,7 +49,6 @@ From the basics of BASH scripting, all the way to automating deployments in the 
 <a href="https://www.credly.com/users/juned-ahmed.cbc69ec9"><img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/credly-48.png" alt="Credly Badge" width="60"/></a>
 </div>
 
-<br>
 
 <h2>📈 Some Stats</h2>
 
