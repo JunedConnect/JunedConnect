@@ -54,5 +54,5 @@ I will be covering everything here, from the basics of scripting using Linux, al
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=junedconnect)
 
-<!           ![Visit Counter](https://komarev.com/ghpvc/?username=junedconnect&style=flat-square)    Disabled for now    >
+<!--           ![Visit Counter](https://komarev.com/ghpvc/?username=junedconnect&style=flat-square)    Disabled for now    -->
 
