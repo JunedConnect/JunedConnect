@@ -28,8 +28,6 @@ From the basics of BASH scripting, all the way to automating deployments in the 
 
 </div>
 
-<br>
-
 <h2>👨‍💻 Cyber Security Projects</h2>
 
 [![SOC Automation](https://img.shields.io/badge/SOC_Automation-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/SOC_Automation) \
