@@ -19,9 +19,8 @@ I spend my free time trying out different tools & learning about technologies, D
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes)](https://skillicons.dev)
-
-<br/>
 </div>
+<br/>
 
 <h2>👨‍💻 DevOps Journey</h2>
 I will be covering everything here, from the basics of scripting using Linux, all the way to automating deployments in the cloud <br/>
