@@ -2,6 +2,7 @@
 <div align="center">
   
 <h1>Hi there 👋</h1>
+
 </div>
 
 <h2>🧐 A bit About Me</h2>
