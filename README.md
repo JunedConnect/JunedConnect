@@ -8,9 +8,9 @@
 </div>
 
 <h2>🧐 A bit About Me</h2>
-I'm quite hands-on with tech tools and post abit about my journey here and on Linkedin and enganging with the community.<br/><br/>
+I'm quite hands-on with tech tools and post abit about my journey here and on Linkedin and enganging with the community.<br>
 
-I spend my free time trying out different tools & learning about technologies, DevOps related and even Cyber Security <b>(have a look below 👇)</b>.<br/>
+I spend my free time trying out different tools & learning about technologies, DevOps related and even Cyber Security<br>
 
 
 <br>
