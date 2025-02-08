@@ -13,6 +13,8 @@ I spend my free time trying out different tools & learning about technologies, D
 <h2> Skills and Technologies </h2>
 [![My Skills](https://skillicons.dev/icons?i=js,bash,aws)](https://skillicons.dev)
 
+<br/>
+
 <h2>👨‍💻 DevOps Journey</h2>
 I will be covering everything here, from the basics of scripting using Linux, all the way to automating deployments in the cloud <br/>
 <a href="https://github.com/JunedConnect/Devops-Journey">Click Here to see the Journey</a>
