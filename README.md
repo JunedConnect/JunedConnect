@@ -12,7 +12,7 @@ I spend my free time trying out different tools & learning about technologies, D
 
 
 <br/>
-
+<div align="center">
 <h2> Skills and Technologies </h2>
 
 
@@ -21,6 +21,7 @@ I spend my free time trying out different tools & learning about technologies, D
 [![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes)](https://skillicons.dev)
 
 <br/>
+</div>
 
 <h2>👨‍💻 DevOps Journey</h2>
 I will be covering everything here, from the basics of scripting using Linux, all the way to automating deployments in the cloud <br/>
@@ -36,9 +37,10 @@ I will be covering everything here, from the basics of scripting using Linux, al
 - <b>Vulnerability Management</b> [Click Here](https://github.com/JunedConnect/Vulnerability_Scanning)
 
 <br/>
-<h2>🔗 Some Links</h2>
 
 <div align="center">
+<h2>🔗 Connect With Me</h2>
+
 <a href="https://www.linkedin.com/in/juned-connect/"><img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/linkedin-48.png" alt="LinkedIn Badge" width="60"/></a>
 <a href="https://www.credly.com/users/juned-ahmed.cbc69ec9"><img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/credly-48.png" alt="Credly Badge" width="60"/></a>
 </div>
