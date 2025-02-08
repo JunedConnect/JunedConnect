@@ -1,5 +1,7 @@
-<h1>Hi, I'm Juned<br/></h1>
+<h1>Hi, I'm Juned 👋 <br/></h1>
 ... just an IT guy
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <br/>
 <h2>🧐 A bit About Me</h2>
