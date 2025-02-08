@@ -1,8 +1,6 @@
 <h1>Hi, I'm Juned 👋 <br/></h1>
 ... just an IT guy
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 <br/>
 <h2>🧐 A bit About Me</h2>
 I'm quite hands-on with tech tools and post abit about my journey <b>(feel free to check out the Linkedin below)</b> and enganging with the community.<br/><br/>
@@ -11,6 +9,9 @@ I spend my free time trying out different tools & learning about technologies, D
 
 
 <br/>
+
+<h2> Skills and Technologies </h2>
+[![My Skills](https://skillicons.dev/icons?i=js,bash,aws)](https://skillicons.dev)
 
 <h2>👨‍💻 DevOps Journey</h2>
 I will be covering everything here, from the basics of scripting using Linux, all the way to automating deployments in the cloud <br/>
