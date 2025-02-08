@@ -52,4 +52,4 @@ I will be covering everything here, from the basics of scripting using Linux, al
 
 <h2>📈 Some Stats</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junedconnect)]
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=junedconnect)]
