@@ -22,7 +22,7 @@
 </div>
 
 <h2>👨‍💻 DevOps Journey</h2>
-From the basics of BASH scripting, all the way to automating deployments in the cloud with tools like Terraform
+From BASH scripting, all the way to automating deployments in the cloud with tools like Terraform
 
 <div align="center">
   
