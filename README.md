@@ -7,11 +7,11 @@
 </div>
 
 <p>I'm very much hands-on with tech, focusing on DevOps and Cyber Security, constantly learning and evolving.</p>
-<p>I also post frequently about my journey on here & on Linkedin, engaging with the tech community.</p>
+<p>I also post frequently about my journey on here and Linkedin, engaging with the tech community.</p>
 
 <br>
 
-<h2>🧰 Skills and Technologies </h2>
+<h2>🧰 Skills and Technologies</h2>
 
 <div align="center">
 
