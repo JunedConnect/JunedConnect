@@ -1,7 +1,9 @@
 
 <div align="center">
   
-<h1>Hi there 👋</h1>
+<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" height="60" />  Hi There and Welcome to my GitHub <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" height="60" /> </h1>
+
+
 
 </div>
 
@@ -15,14 +17,13 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode,git,github)](https://skillicons.dev) \
 [![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes)](https://skillicons.dev)
 
 </div>
 
 <h2>👨‍💻 DevOps Journey</h2>
-From BASH scripting, all the way to automating deployments in the cloud with tools like Terraform
+<p></p>From BASH scripting, all the way to automating deployments in the cloud with tools like Terraform.</p>
 
 <div align="center">
   
@@ -46,7 +47,7 @@ From BASH scripting, all the way to automating deployments in the cloud with too
 </div>
 
 
-<h2>📈 Some Stats</h2>
+<h2>📈 My Stats</h2>
 
 <div align="center">
   
