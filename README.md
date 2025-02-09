@@ -6,8 +6,8 @@
 </div>
 
 <h2>🧐 A bit About Me</h2>
-<p>I experiment with different tools, focusing on DevOps and Cyber Security, constantly learning and evolving.</p>
-<p>Hands-on with tech tools and post a bit about my journey here & on Linkedin, engaging with the tech community.</p>
+<p>I'm hands-on with different tools, focusing on DevOps and Cyber Security, constantly learning and evolving.</p>
+<p>I also post frequently about my journey on here &  onLinkedin, engaging with the tech community.</p>
 
 <br>
 
