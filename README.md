@@ -15,8 +15,8 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode,git,github)](https://skillicons.dev) \
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode,git,github) \
+![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes)
 
 </div>
 
