@@ -1,11 +1,12 @@
 
 <div align="center">
   
-<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" height="60" />  Hi There and Welcome to my GitHub <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" height="60" /> </h1>
+<h1> <img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/Waving%20Hand.png" alt="Waving Hand" width="60" height="60" />  Hi There and Welcome to my GitHub <img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/Waving%20Hand.png" alt="Waving Hand" width="60" height="60" /> </h1>
+
 
 </div>
 
-<p>I'm hands-on with different tools, focusing on DevOps and Cyber Security, constantly learning and evolving.</p>
+<p>I'm very much hands-on with tech, focusing on DevOps and Cyber Security, constantly learning and evolving.</p>
 <p>I also post frequently about my journey on here & on Linkedin, engaging with the tech community.</p>
 
 <br>
@@ -39,8 +40,8 @@
 
 <h2>🔗 Connect With Me</h2>
 <div align="center">
-<a href="https://www.linkedin.com/in/juned-connect/"><img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/linkedin-48.png" alt="LinkedIn Badge" width="60"/></a>
-<a href="https://www.credly.com/users/juned-ahmed.cbc69ec9"><img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/credly-48.png" alt="Credly Badge" width="60"/></a>
+<a href="https://www.linkedin.com/in/juned-connect/"><img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/linkedin-480.png" alt="LinkedIn Badge" width="60"/></a>
+<a href="https://www.credly.com/users/juned-ahmed.cbc69ec9"><img src="https://raw.githubusercontent.com/JunedConnect/JunedConnect/main/images/credly-480.png" alt="Credly Badge" width="60"/></a>
 </div>
 
 
