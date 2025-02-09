@@ -3,13 +3,10 @@
   
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" height="60" />  Hi There and Welcome to my GitHub <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" height="60" /> </h1>
 
-
-
 </div>
 
-<h2>🧐 A bit About Me</h2>
 <p>I'm hands-on with different tools, focusing on DevOps and Cyber Security, constantly learning and evolving.</p>
-<p>I also post frequently about my journey on here &  onLinkedin, engaging with the tech community.</p>
+<p>I also post frequently about my journey on here & on Linkedin, engaging with the tech community.</p>
 
 <br>
 
@@ -22,7 +19,7 @@
 
 </div>
 
-<h2>👨‍💻 DevOps Journey</h2>
+<h2>☁️ DevOps Journey</h2>
 <p></p>From BASH scripting, all the way to automating deployments in the cloud with tools like Terraform.</p>
 
 <div align="center">
@@ -31,7 +28,7 @@
 
 </div>
 
-<h2>👨‍💻 Cyber Security Projects</h2>
+<h2>🛡️ Cyber Security Projects</h2>
 
 [![SOC Automation](https://img.shields.io/badge/SOC_Automation-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/SOC_Automation) \
 [![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-0077B5?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Vulnerability_Scanning) \
