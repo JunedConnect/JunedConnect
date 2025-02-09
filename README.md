@@ -18,6 +18,8 @@
 ![My Skills](https://skillicons.dev/icons?i=linux,bash,vscode,git,github) \
 ![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes)
 
+<!-- This is the repo/website that I had used for the icons above : https://skillicons.dev -->
+
 </div>
 
 <h2>☁️ DevOps Journey</h2>
