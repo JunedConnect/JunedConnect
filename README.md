@@ -22,6 +22,16 @@
 
 </div>
 
+<h2>🧪 Elixir Labs </h2>
+
+<br>
+
+<div align="center">
+  
+[![Labs Library](https://img.shields.io/badge/Labs%20Library-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Labs-Library)
+
+</div>
+
 <h2>☁️ DevOps Journey</h2>
 <p></p>From BASH scripting, all the way to automating deployments in the cloud with tools like Terraform.</p>
 
