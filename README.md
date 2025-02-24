@@ -22,7 +22,7 @@
 
 </div>
 
-<h2>🧪 Elixir Labs </h2>
+<h2>🧪 Elixir Labs and DevOps Journey</h2>
 
 <br>
 
@@ -30,14 +30,8 @@
   
 [![Labs Library](https://img.shields.io/badge/Labs%20Library-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Labs-Library)
 
-</div>
+[![DevOps](https://img.shields.io/badge/DevOps%20Journey-b603fc?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Devops-Journey)
 
-<h2>☁️ DevOps Journey</h2>
-<p></p>From BASH scripting, all the way to automating deployments in the cloud with tools like Terraform.</p>
-
-<div align="center">
-  
-[![Click Here to Join the Journey](https://img.shields.io/badge/Click%20Here%20to%20Join%20the%20Journey-b603fc?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Devops-Journey)
 
 </div>
 
