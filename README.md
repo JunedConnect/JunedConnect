@@ -6,7 +6,7 @@
 
 </div>
 
-<p>I'm very much hands-on with tech, focusing on DevOps and Cyber Security, constantly learning and evolving.</p>
+<p>I'm very much hands-on with tech, focusing on DevOps, constantly learning and evolving.</p>
 <p>I also post frequently about my journey on here and Linkedin, engaging with the tech community.</p>
 
 <br>
