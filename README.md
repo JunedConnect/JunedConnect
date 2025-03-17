@@ -22,7 +22,7 @@
 
 </div>
 
-<h2>🧪 Elixir Labs and DevOps Journey</h2>
+<h2>🧪 Elixir Labs</h2>
 
 <br>
 
@@ -30,7 +30,7 @@
   
 [![Labs Library](https://img.shields.io/badge/Labs%20Library-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Labs-Library)
 
-[![DevOps](https://img.shields.io/badge/DevOps%20Journey-b603fc?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Devops-Journey)
+<!-- [![DevOps](https://img.shields.io/badge/DevOps%20Journey-b603fc?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Devops-Journey) -->
 
 
 </div>
