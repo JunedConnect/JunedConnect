@@ -28,9 +28,9 @@
 
 <div align="center">
   
-[![Labs Library](https://img.shields.io/badge/Labs%20Library-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Labs-Library)
+[![Labs Library](https://img.shields.io/badge/Labs%20Library-58CC02?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/labs-library)
 
-<!-- [![DevOps](https://img.shields.io/badge/DevOps%20Journey-b603fc?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/Devops-Journey) -->
+<!-- [![DevOps](https://img.shields.io/badge/DevOps%20Journey-b603fc?style=for-the-badge&logo=accenture&logoColor=white)](https://github.com/JunedConnect/devops-journey) -->
 
 
 </div>
